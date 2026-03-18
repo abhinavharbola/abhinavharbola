@@ -6,6 +6,6 @@ Final-year CS student building production-grade AI systems.
 
 **Stack:** Python, LangChain, Hugging Face, XGBoost, FAISS, FastAPI, Streamlit, Docker
 
-**Currently:** Looking for AI/ML engineer or Data Scientist roles (open to remote)
+**Currently:** Looking for Data Science/AI/ML engineer roles (open to remote)
 
 📫 abhinavdaharbola@gmail.com
