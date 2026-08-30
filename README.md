@@ -50,21 +50,9 @@ AI/ML Engineer focused on systems that hold up in production: evaluation before 
 
 ---
 
-### Featured projects
-
-<!-- Replace with your actual repos. Pin these on your profile too. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| [project-name](https://github.com/abhinavharbola/project-name) | One-line outcome, not just what it is | Python, FastAPI, Postgres |
-| [project-name](https://github.com/abhinavharbola/project-name) | One-line outcome, not just what it is | LangChain, Qdrant |
-| [project-name](https://github.com/abhinavharbola/project-name) | One-line outcome, not just what it is | XGBoost, MLflow |
-
----
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavharbola&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavharbola&theme=github-dark&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhinavharbola&theme=github_dark&hide_border=true&layout=compact" height="165" />
+<img src="https://streak-stats.demolab.com/?user=abhinavharbola&theme=github-dark&hide_border=true" height="165" />
 
 </div>
