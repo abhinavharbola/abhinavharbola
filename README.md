@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/abhinavharbola">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Applied+ML+%7C+MLOps+%7C+RAG+%7C+Causal+Inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=900&lines=AI+%2F+ML+%2F+Data+Science+Engineer;Applied+ML+%7C+Causal+Inference+%7C+MLOps+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <p>
-AI/ML Engineer focused on systems that hold up in production: evaluation before modeling, fail-closed guardrails, and monitoring for drift and degradation over time.
+AI/ML/Data Science Engineer focused on systems that hold up in production: statistically grounded evaluation before modeling, fail-closed guardrails, and monitoring for drift and degradation over time.
 </p>
 
 <p><b>Open to AI / ML / Data Science Engineer roles, remote-friendly.</b></p>
