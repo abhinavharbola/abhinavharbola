@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/abhinavharbola">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Applied+ML+%7C+MLOps+%7C+RAG+%7C+Causal+Inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Applied+ML+%7C+MLOps+%7C+RAG+%7C+Causal+Inference" alt="Typing SVG" />
 </a>
 
 <p>
