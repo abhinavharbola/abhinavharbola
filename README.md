@@ -10,8 +10,8 @@ My work spans the full stack of applied AI: statistically validated causal model
 
 <div align="center">
 
-<a href="mailto:abhinavdaharbola@gmail.com"><img src="https://img.shields.io/badge/-8B93A3?style=flat-square&logo=gmail&logoColor=white" width="22" height="22" /></a>
-<a href="https://linkedin.com/in/abhinavharbola"><img src="https://img.shields.io/badge/-8B93A3?style=flat-square&logo=linkedin&logoColor=white" width="22" height="22" /></a>
+<a href="mailto:abhinavdaharbola@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22" /></a>
+<a href="https://linkedin.com/in/abhinavharbola"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a>
 
 **Open to AI/ML/Data Science Engineer roles, remote-friendly.**
 
