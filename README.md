@@ -4,7 +4,7 @@
   
 I build AI and ML systems, then build the governance around them. A model that works in a notebook is not the same as one that survives production.
 
-My work spans the full stack of applied AI: statistically validated causal models, leakage-tested recommenders, a RAG pipeline that fails closed instead of guessing, an autonomous research agent that cites its sources or says it does not know, and an MLOps pipeline that gates its own promotions. Every project is designed, evaluated, and shipped the way I would want a hire to do it, rigorously, on infrastructure that costs nothing to run.
+My work spans causal models stress-tested against unmeasured confounding, a recommender benchmarked under a leakage-proof temporal split, a RAG pipeline that fails closed rather than hallucinating, a research agent that cites every claim or admits it couldn't find one, and an MLOps pipeline that gates its own model promotions on statistical significance, not a config flag. Each one is built to the standard I'd want from a hire: rigorously evaluated, honestly limited, running on infrastructure that costs nothing.
 
 </div>
 
