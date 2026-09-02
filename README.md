@@ -1,20 +1,18 @@
-<h1 align="center">AI/ML Engineer · Data Scientist</h2>
+<h1 align="center">AI/ML Engineer</h2>
 
 <div align="justify">
-
-I build AI, ML, and data science systems, then build the governance around them. A model that works in a notebook is not the same as one that survives production.
+  
+I build AI and ML systems, then build the governance around them. A model that works in a notebook is not the same as one that survives production.
 
 My work spans the full stack of applied AI: statistically validated causal models, leakage-tested recommenders, a RAG pipeline that fails closed instead of guessing, an autonomous research agent that cites its sources or says it does not know, and an MLOps pipeline that gates its own promotions. Every project is designed, evaluated, and shipped the way I would want a hire to do it, rigorously, on infrastructure that costs nothing to run.
 
 </div>
 
 <div align="center">
-
 <a href="mailto:abhinavdaharbola@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22" /></a>
 <a href="https://linkedin.com/in/abhinavharbola"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a>
 
-**Open to AI/ML/Data Science Engineer roles, remote-friendly.**
-
+**Open to AI/ML Engineer and Data Scientist roles, remote-friendly.**
 </div>
 
 ---
