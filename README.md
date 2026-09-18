@@ -4,7 +4,7 @@
 
 I build AI and ML systems, then build the governance around them. A model that works in a notebook is not the same as one that survives production.
 
-I work across the full lifecycle: framing a problem statistically before touching data, building the model or LLM pipeline itself, evaluating it against a harness built before the model exists, wrapping it in guardrails that fail closed instead of guessing, and instrumenting it so drift and degradation get caught after deployment, not assumed away or left for someone else to notice in production. I default to skepticism of my own results, ground truth checks, ablations, and significance tests are load-bearing parts of the system, not decoration added for a README. Everything runs on infrastructure that costs nothing, by constraint, not by accident, which forces the same discipline paid infrastructure lets people skip.
+I work across the full lifecycle: framing a problem statistically before touching data, building the model or LLM pipeline itself, evaluating it against a harness built before the model exists, wrapping it in guardrails that fail closed instead of guessing, and instrumenting it so drift and degradation get caught after deployment, not assumed away or left for someone else to notice in production. I default to skepticism of my own results, ground truth checks, ablations, and significance tests are load-bearing parts of the system. Everything runs on infrastructure that costs nothing, by constraint, not by accident.
 
 </div>
 
