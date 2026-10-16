@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/abhinavharbola">
-    <img src="REPLACE_WITH_BANNER_URL" width="100%" alt="Banner"/>
+    <img src="assets/banner.gif" width="100%" alt="Banner"/>
   </a>
 </div>
 
@@ -28,14 +28,15 @@
       <br>
       <b>AI/ML Engineer &amp; Data Scientist</b> (B.Tech CSE, 2026)<br><br>
       I am based in Varanasi, India, and I build LLM agents, guardrailed RAG systems, recommenders and automated ML pipelines. I care about evaluating them properly: ablations, leakage-free splits and significance tests over demos.<br><br>
-      Recent work includes <b>IssueOps MCP</b> (human-in-the-loop agent triage), <b>Competitive Intelligence Agent</b> (LangGraph), <b>Kubernetes Gated RAG</b> (fail-closed guardrails), <b>ReelBench</b> (multi-stage recommender) and <b>Credit Risk Autopilot</b> (automated MLOps). My toolkit is Python, PyTorch, LangGraph, Qdrant and MLflow.<br><br>
+      Recent work includes <b>Competitive Intelligence Agent</b> (LangGraph), <b>Kubernetes Gated RAG</b> (fail-closed guardrails), <b>IssueOps MCP</b> (human-in-the-loop agent triage), <b>ReelBench</b> (multi-stage recommender) and <b>Credit Risk Autopilot</b> (automated MLOps). My toolkit is Python, PyTorch, LangGraph, Qdrant and MLflow.<br><br>
       Currently open to AI, ML and Data Science roles.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="REPLACE_WITH_PORTRAIT_URL" width="220" alt="Portrait"/>
+      <img src="assets/portrait.gif" width="220" alt="Portrait"/>
     </td>
   </tr>
 </table>
+
 <div align="center">
   <img src="REPLACE_WITH_CLOSING_IMAGE_URL" width="100%" alt="Closing banner"/>
 </div>
