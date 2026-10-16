@@ -38,5 +38,5 @@
 </table>
 
 <div align="center">
-  <img src="REPLACE_WITH_CLOSING_IMAGE_URL" width="100%" alt="Closing banner"/>
+  <img src="assets/footer.png" width="100%" alt="Footer"/>
 </div>
